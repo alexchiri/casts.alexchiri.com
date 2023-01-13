@@ -2,23 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://casts.alexchiri.com/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://casts.alexchiri.com/posts/secondpost/</loc>
-    <lastmod>2018-07-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://casts.alexchiri.com/posts/thirdpost/</loc>
-    <lastmod>2018-08-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://casts.alexchiri.com/posts/fourthpost/</loc>
-    <lastmod>2018-09-30</lastmod>
+    <loc>https://casts.alexchiri.com/posts/2023-01-12-ephemeral-containers/</loc>
+    <lastmod>2023-01-12</lastmod>
   </url>
   
   <url>
@@ -47,22 +32,7 @@
   </url>
   
   <url>
-    <loc>https://casts.alexchiri.com/tags/another-tag/</loc>
-    <lastmod>2023-01-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://casts.alexchiri.com/tags/second-tag/</loc>
-    <lastmod>2023-01-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://casts.alexchiri.com/tags/number-2/</loc>
-    <lastmod>2023-01-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://casts.alexchiri.com/tags/posts-with-two-tags/</loc>
+    <loc>https://casts.alexchiri.com/tags/kubernetes/</loc>
     <lastmod>2023-01-13</lastmod>
   </url>
 </urlset>
