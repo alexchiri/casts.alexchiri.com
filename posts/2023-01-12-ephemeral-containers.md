@@ -6,4 +6,5 @@ tags:
   - kubernetes
 layout: layouts/post.njk
 ---
-<iframe width=560 height="630" src="https://komododecks.com/embed/recordings/s1UPS5XlLc49R0lcK8Bw" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe> 
+
+<iframe width=1060 height="700" src="https://komododecks.com/embed/recordings/s1UPS5XlLc49R0lcK8Bw" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe> 
