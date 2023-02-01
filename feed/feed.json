@@ -10,6 +10,12 @@
     "url": "https://alexchiri.com"
   },
   "items": [{
+      "id": "https://casts.alexchiri.com/posts/2023-02-01-crossplane-1.10/",
+      "url": "https://casts.alexchiri.com/posts/2023-02-01-crossplane-1.10/",
+      "title": "Crossplane 1.10 quick intro",
+      "content_html": "<iframe width=\"1060\" height=\"700\" src=\"https://screencasts.alexchiri.com/embed/recordings/B7rQglbGUMsS3iEz536h\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n",
+      "date_published": "2023-02-01T00:00:00Z"
+    },{
       "id": "https://casts.alexchiri.com/posts/2023-01-12-ephemeral-containers/",
       "url": "https://casts.alexchiri.com/posts/2023-01-12-ephemeral-containers/",
       "title": "Ephemeral Containers | Kubernetes 1.25",

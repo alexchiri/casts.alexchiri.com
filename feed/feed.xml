@@ -5,12 +5,21 @@
 	
 	<link href="https://casts.alexchiri.com/feed/feed.xml" rel="self"/>
 	<link href="https://casts.alexchiri.com/"/>
-	<updated>2023-01-12T00:00:00Z</updated>
+	<updated>2023-02-01T00:00:00Z</updated>
 	<id>https://casts.alexchiri.com/</id>
 	<author>
 		<name>Alex Chiritescu</name>
 		<email>hello@alexismy.name</email>
 	</author>
+	
+	<entry>
+		<title>Crossplane 1.10 quick intro</title>
+		<link href="https://casts.alexchiri.com/posts/2023-02-01-crossplane-1.10/"/>
+		<updated>2023-02-01T00:00:00Z</updated>
+		<id>https://casts.alexchiri.com/posts/2023-02-01-crossplane-1.10/</id>
+		<content type="html">&lt;iframe width=&quot;1060&quot; height=&quot;700&quot; src=&quot;https://screencasts.alexchiri.com/embed/recordings/B7rQglbGUMsS3iEz536h&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Ephemeral Containers | Kubernetes 1.25</title>
