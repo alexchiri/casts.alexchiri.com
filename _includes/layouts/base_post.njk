@@ -9,6 +9,7 @@
     {#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
     {#- <meta name="generator" content="{{ eleventy.generator }}"> #}
 
+    {% if image %}
     <meta property="og:title" content="{{ title }}">
     <meta property="og:image" content="{{ metadata.url }}{{ image }}">
     <meta property="og:url" content="{{ metadata.url }}{{ page.url }}">
@@ -16,6 +17,7 @@
     <meta property="og:image:width" content="1280">
     <meta property="og:image:height" content="720">
     <meta name="twitter:card" content="summary_large_image">
+    {% endif %}>
 
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
